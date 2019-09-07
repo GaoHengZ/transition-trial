@@ -1,5 +1,5 @@
 ## 绪论
-[绪论](https://github.com/GaoHengZ/transition-trial/blob/master/绪论.md)
+[绪论](https://github.com/GaoHengZ/transition-trial/blob/master/%E7%BB%AA%E8%AE%BA.md)
 ## 跃迁方法 V1.0
 #### 准则
 >1. 持续迭代，系统性进步，不求妙手，不得贪胜。
