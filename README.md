@@ -23,4 +23,5 @@
 ## 小知识
 [day2 : Three Virtues-程序员的三种美德](https://github.com/GaoHengZ/transition-trial/blob/master/%E5%B0%8F%E7%9F%A5%E8%AF%86/%E3%80%902%E5%A4%A9%E3%80%91Three%20Virtues-%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E4%B8%89%E7%A7%8D%E7%BE%8E%E5%BE%B7.MD)
 
+[day3 : 设计模式-适配者模式](https://github.com/GaoHengZ/transition-trial/blob/master/%E5%B0%8F%E7%9F%A5%E8%AF%86/%E3%80%903%E5%A4%A9%E3%80%91%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E9%80%82%E9%85%8D%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 ## 拓展兴趣
